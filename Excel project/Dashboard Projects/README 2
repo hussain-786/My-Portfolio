@@ -1,0 +1,24 @@
+Health Insurance Dashboard Project (Excel)
+
+Project Objective:
+To analyze health insurance data from 2010–2014 and find key insights about claims, premiums, and policyholders.
+
+Process:
+
+Collected and cleaned 5 years of health insurance data.
+Used Pivot Tables and Charts to summarize data by policy type, gender, region, and age group.
+Added Slicers to make the dashboard interactive.
+Designed a clear dashboard to track important KPIs — Total Premiums, Total Claims, Claim Ratio, and Active Policies.
+
+Key Insights:
+
+Claims increased steadily over the years.
+Some policy types had higher claim ratios than others.
+Middle-aged groups had the highest premium contributions.
+
+Tools Used:
+Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
+
+Result:
+A professional, interactive dashboard that gives a clear view of insurance performance and helps in data-driven decisions.
+
