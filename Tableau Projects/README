@@ -1,0 +1,39 @@
+Tableau HR Analytics Dashboard
+
+🎯 Objective:
+
+The main goal of this project is to analyze and visualize key HR metrics to help organizations make data-driven decisions about their workforce. The dashboard provides a complete view of employee performance, attrition, demographics, and satisfaction — helping HR departments identify patterns and areas for improvement.
+
+📊 Overview:
+
+The HR Analytics Dashboard is built in Tableau to transform raw HR data into meaningful insights. It allows HR managers and decision-makers to easily track and monitor:
+Employee demographics (gender, age, department, education, marital status, etc.)
+Attrition and retention trends
+Performance ratings
+Job satisfaction levels
+Salary distribution
+Years of service and promotion timelines
+
+⚙️ Tools & Technologies:
+
+Tableau – for data visualization and dashboard creation
+Excel / CSV Dataset – as data source
+Data Cleaning & Preparation – performed within Tableau and Excel
+
+🔍 Key Insights:
+
+Identified departments with the highest attrition rates and contributing factors.
+Highlighted gender and age group trends in employee turnover.
+Discovered correlation between job satisfaction and performance.
+Analyzed salary distribution across departments and experience levels.
+Provided interactive filters and visuals for HR managers to explore employee data dynamically.
+
+💡 Outcome:
+
+This dashboard helps HR professionals:
+Monitor workforce composition in real time
+Reduce attrition by identifying risk factors early
+
+Improve employee satisfaction and retention strategies
+
+Make strategic HR decisions backed by data visualization
