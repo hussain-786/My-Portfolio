@@ -1,0 +1,39 @@
+Employees Database (MySQL Workbench)
+
+This project demonstrates the design and implementation of a relational database system for managing employee and HR data using MySQL Workbench. It simulates a real-world corporate HR structure with departments, job titles, salaries, and employee assignments.
+
+🎯 Objectives
+
+Design a normalized relational database schema.
+Perform CRUD operations (Create, Read, Update, Delete).
+Execute SQL queries to retrieve and analyze employee and department data.
+Understand relationships between entities such as employees, managers, and departments.
+
+🧱 Database Structure
+
+Tables Created:
+
+employees – employee details and job titles
+departments – department info
+titles – job role types
+dept_emp – employee-department relationship
+dept_manager – department management assignments
+salaries – employee compensation data
+
+💡 Key Queries Executed
+
+Retrieve employee details with their salaries.
+List managers and their departments.
+Find employees by department (e.g., Finance, Engineering).
+Analyze employee hiring trends and name frequencies.
+Join multiple tables to produce meaningful HR insights.
+
+🛠️ Tools & Technologies
+
+MySQL Workbench for database design and SQL scripting.
+SQL (DDL & DML) for table creation, joins, and data manipulation.
+ER modeling and relational database normalization principles.
+
+🚀 Outcome
+
+The project demonstrates proficiency in SQL querying, database design, and data relationships, forming the foundation for data analytics and BI dashboards (e.g., integrating with Tableau or Power BI).
